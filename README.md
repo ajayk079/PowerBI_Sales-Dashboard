@@ -9,3 +9,7 @@
 ### More than 2 million QTY products company sold.
 ### Most of the revenue is from Delhi NCR, Mumbai, and Ahmadabad.
 ### Top selling Products are: Blank (due to they have not mentioned product name properly) and Prod065
+
+# Dashboard Overview.
+![Dashboard](https://github.com/ajayk079/PowerBI_Sales-Dashboard/assets/83025605/96fabd5a-8328-4b43-baee-3911c1c8571f)
+
